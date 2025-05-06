@@ -17,12 +17,13 @@ This Power BI report provides an in-depth analysis of T20 World Cup cricket matc
 
 ## 📂 File Info
 
-  * T20_WORLD_CUP_Data_Analysis.pbix: The main [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?ocid=ORSEARCH_Bing&msockid=314900e1b73e61f00f261107b6c960ce) report file.
+  * T20_WORLD_CUP_Data_Analysis.pbix: The main Power BI report file.
 
-  * Open with [Power BI Desktop] to explore or edit.
+  * Open with [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads?ocid=ORSEARCH_Bing&msockid=314900e1b73e61f00f261107b6c960ce) to explore or edit.
 
 ## 📸 Screenshots
-  * Include screenshots of your dashboards here (optional but highly recommended)
+  ![T20 analysis ](./assest/T20.png)
+   The image indicates hightlight of matches 
 
 ## 🔧 How to Use
 
